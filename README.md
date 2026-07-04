@@ -1,24 +1,159 @@
-# 💫 About Me:
-Hi, I'm Akarshi 👋<br><br>🎓 B.Tech CSE (AI & ML) student from India<br><br>I build projects at the intersection of AI, Robotics, Computer Vision, and Scientific Computing.<br><br>Currently exploring:<br>- Machine Learning & Deep Learning<br>- Computer Vision (OpenCV)<br>- Autonomous Robotics & Drones<br>- Data Structures & Algorithms<br>- Open-source Scientific Research<br><br>I'm always learning, building, and contributing to projects that solve real-world problems.<br>Option 2 (Research-focused)<br>Hi, I'm Akarshi.<br><br>I'm an AI & ML undergraduate interested in scientific computing, remote sensing, computer vision, robotics, and autonomous systems.<br><br>My repositories include research projects, machine learning experiments, computer vision applications, and software built for real-world engineering problems.<br><br>Currently learning:<br>• Advanced DSA<br>• Deep Learning<br>• Robotics<br>• MLOps<br>Option 3 (Minimal)<br>AI & ML Undergraduate<br><br>• Computer Vision<br>• Robotics<br>• Machine Learning<br>• Scientific Computing<br>• Open Source<br><br>Learning one project at a time.<br>Option 4 (Modern GitHub Style)<br>## Hey there! 👋<br><br>I'm Akarshi, an AI & ML student passionate about building intelligent systems.<br><br>🔬 Interests<br>- Artificial Intelligence<br>- Computer Vision<br>- Robotics<br>- Scientific Computing<br>- Open Source<br><br>🌱 Currently learning<br>- DSA<br>- Deep Learning<br>- MLOps<br>- ROS 2<br><br>🚀 Goal<br>Build impactful AI solutions for science and engineering.<br>If you're aiming for top internships or research roles (Google, NVIDIA, ISRO, Microsoft, research labs), I'd recommend this version:<br># Hi, I'm Akarshi 👋<br><br>AI & ML undergraduate with a strong interest in intelligent systems, computer vision, robotics, and scientific computing.<br><br>## Interests<br>- Artificial Intelligence & Machine Learning<br>- Computer Vision<br>- Autonomous Robotics<br>- Scientific Computing<br>- Open-source Development<br><br>## Currently Learning<br>- Data Structures & Algorithms<br>- Deep Learning<br>- MLOps<br>- ROS 2<br>- System Design<br><br>## Current Focus<br>Building AI-powered solutions for real-world engineering and scientific challenges while contributing to open-source projects.<br><br>> "Build. Learn. Share. Repeat."<br><br>This strikes a balance between professionalism and personality without relying on clichés. It also aligns well with the kinds of projects you've been working on, including AI, computer vision, robotics, and scientific computing.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a237e,100:00c853&height=180&section=header&text=Akarshi%20Srivastava&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Robotics%20%7C%20Scientific%20Computing&descAlignY=58&descColor=00c853&animation=fadeIn"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/o.a.s.i.s.27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akarshi-srivastava-a74396328/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Akarshi_27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akarshisrivastava2711@gmail.com) 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=760&height=45&lines=AI+%26+ML+Engineer+in+Progress+🤖;Computer+Vision+Developer+👁️;Robotics+%26+Autonomous+Systems+🚀;Scientific+Computing+Explorer+🌙;Building+Intelligent+Solutions+⚡"/>
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Akarshi27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Akarshi27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akarshi27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://komarev.com/ghpvc/?username=Akarshi27&label=Profile+Views&color=00c853&style=for-the-badge)
+![](https://img.shields.io/github/followers/Akarshi27?label=Followers&style=for-the-badge&color=1565c0&labelColor=0d1117)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akarshi27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Akarshi27&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science & Engineering (AI & ML) @ KIET Group of Institutions
+- 🤖 Passionate about Artificial Intelligence, Robotics, Computer Vision & Scientific Computing
+- 🚁 Building autonomous drone systems and intelligent robotic solutions
+- 🧠 Exploring Deep Learning, YOLO, CNNs and Machine Learning
+- 🌙 Interested in AI applications for Robotics, Space Technology and Remote Sensing
+
+### 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Deep Learning
+- MERN Stack
+- Scientific Computing
+- Autonomous Robotics
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### AI / ML & Computer Vision
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E24AA?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-00C853?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
+
+---
+
+### Web Development
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+### Robotics & Embedded Systems
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi)
+![IoT](https://img.shields.io/badge/IoT-00BCD4?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-1565C0?style=flat-square)
+
+---
+
+# 🚀 Featured Projects
+
+### 🚁 Autonomous Disaster Management Drone
+
+AI-powered autonomous drone for disaster response using computer vision and intelligent navigation.
+
+---
+
+### ♻️ Smart Waste Segregation System
+
+CNN-based waste classification integrated with ESP32 and MERN for real-time monitoring.
+
+---
+
+### 🤖 Robodog
+
+Quadruped robotic platform focused on autonomous movement and system integration.
+
+---
+
+### 🚗 Line Follower Robot
+
+Sensor-based autonomous robot with optimized path detection algorithms.
+
+---
+
+### ⠿ Smart Braille System
+
+Assistive hardware-software solution for translating user input into Braille output.
+
+---
+
+# 🏆 Achievements
+
+🥇 1st Position — Technoxian Robotics Championship (Drone Rescue Challenge)
+
+🏅 AIR 4 — NIDAR Disaster Management Drone Competition
+
+🥇 Department Winner — INNOTECH 25 (Robodog)
+
+🥇 1st Position — IIT Delhi Line & Maze Following Competition
+
+🥈 1st Runner-Up — Orbix, IIIT Delhi
+
+🥈 2nd Runner-Up — HackHeist (MIET GDG)
+
+🏅 Qualified — RBI & IIT Delhi National Fraud Prevention Challenge (Phase 2)
+
+🌍 Delegate — KIET MUN (Germany, UNHRC)
+
+---
+
+# 📜 Certifications
+
+- AWS Certified Cloud Practitioner
+- AWS Academy Machine Learning
+- Java Certification (Infosys Springboard)
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:akarshisrivastava2711@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Akarshi27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:0d1117&height=100&section=footer"/>
+
+</div>
