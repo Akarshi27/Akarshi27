@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Akarshi 👋<br><br>🎓 B.Tech CSE (AI & ML) student from India<br><br>I build projects at the intersection of AI, Robotics, Computer Vision, and Scientific Computing.<br><br>Currently exploring:<br>- Machine Learning & Deep Learning<br>- Computer Vision (OpenCV)<br>- Autonomous Robotics & Drones<br>- Data Structures & Algorithms<br>- Open-source Scientific Research<br><br>I'm always learning, building, and contributing to projects that solve real-world problems.<br>Option 2 (Research-focused)<br>Hi, I'm Akarshi.<br><br>I'm an AI & ML undergraduate interested in scientific computing, remote sensing, computer vision, robotics, and autonomous systems.<br><br>My repositories include research projects, machine learning experiments, computer vision applications, and software built for real-world engineering problems.<br><br>Currently learning:<br>• Advanced DSA<br>• Deep Learning<br>• Robotics<br>• MLOps<br>Option 3 (Minimal)<br>AI & ML Undergraduate<br><br>• Computer Vision<br>• Robotics<br>• Machine Learning<br>• Scientific Computing<br>• Open Source<br><br>Learning one project at a time.<br>Option 4 (Modern GitHub Style)<br>## Hey there! 👋<br><br>I'm Akarshi, an AI & ML student passionate about building intelligent systems.<br><br>🔬 Interests<br>- Artificial Intelligence<br>- Computer Vision<br>- Robotics<br>- Scientific Computing<br>- Open Source<br><br>🌱 Currently learning<br>- DSA<br>- Deep Learning<br>- MLOps<br>- ROS 2<br><br>🚀 Goal<br>Build impactful AI solutions for science and engineering.<br>If you're aiming for top internships or research roles (Google, NVIDIA, ISRO, Microsoft, research labs), I'd recommend this version:<br># Hi, I'm Akarshi 👋<br><br>AI & ML undergraduate with a strong interest in intelligent systems, computer vision, robotics, and scientific computing.<br><br>## Interests<br>- Artificial Intelligence & Machine Learning<br>- Computer Vision<br>- Autonomous Robotics<br>- Scientific Computing<br>- Open-source Development<br><br>## Currently Learning<br>- Data Structures & Algorithms<br>- Deep Learning<br>- MLOps<br>- ROS 2<br>- System Design<br><br>## Current Focus<br>Building AI-powered solutions for real-world engineering and scientific challenges while contributing to open-source projects.<br><br>> "Build. Learn. Share. Repeat."<br><br>This strikes a balance between professionalism and personality without relying on clichés. It also aligns well with the kinds of projects you've been working on, including AI, computer vision, robotics, and scientific computing.
 
-<!--
-**Akarshi27/Akarshi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Akarshi Srivastava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akarshi_AIML_C) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akarshisrivastava2711@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Akarshi27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Akarshi27&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Akarshi27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Akarshi27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Akarshi27&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
