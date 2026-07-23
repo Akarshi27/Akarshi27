@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1400" height="700"
+     viewBox="0 0 1400 700"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bgGradient"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <!-- Timeline Gradient -->
+    <linearGradient id="timelineGradient"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <!-- Cyan Glow -->
+    <filter id="cyanGlow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Purple Glow -->
+    <filter id="purpleGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect
+      width="1400"
+      height="700"
+      fill="url(#bgGradient)"/>
+
+  <!-- Decorative Grid -->
+
+  <g opacity="0.08">
+
+    <line x1="0" y1="100" x2="1400" y2="100" stroke="#38BDF8"/>
+    <line x1="0" y1="200" x2="1400" y2="200" stroke="#38BDF8"/>
+    <line x1="0" y1="300" x2="1400" y2="300" stroke="#38BDF8"/>
+    <line x1="0" y1="400" x2="1400" y2="400" stroke="#38BDF8"/>
+    <line x1="0" y1="500" x2="1400" y2="500" stroke="#38BDF8"/>
+    <line x1="0" y1="600" x2="1400" y2="600" stroke="#38BDF8"/>
+
+    <line x1="100" y1="0" x2="100" y2="700" stroke="#38BDF8"/>
+    <line x1="250" y1="0" x2="250" y2="700" stroke="#38BDF8"/>
+    <line x1="400" y1="0" x2="400" y2="700" stroke="#38BDF8"/>
+    <line x1="550" y1="0" x2="550" y2="700" stroke="#38BDF8"/>
+    <line x1="700" y1="0" x2="700" y2="700" stroke="#38BDF8"/>
+    <line x1="850" y1="0" x2="850" y2="700" stroke="#38BDF8"/>
+    <line x1="1000" y1="0" x2="1000" y2="700" stroke="#38BDF8"/>
+    <line x1="1150" y1="0" x2="1150" y2="700" stroke="#38BDF8"/>
+    <line x1="1300" y1="0" x2="1300" y2="700" stroke="#38BDF8"/>
+
+  </g>
+
+  <!-- Glow Decorations -->
+
+  <circle
+      cx="180"
+      cy="120"
+      r="90"
+      fill="#22D3EE"
+      opacity="0.05"/>
+
+  <circle
+      cx="1200"
+      cy="570"
+      r="120"
+      fill="#A855F7"
+      opacity="0.05"/>
+
+  <!-- Title -->
+
+  <text
+      x="700"
+      y="70"
+      fill="#FFFFFF"
+      text-anchor="middle"
+      font-family="Segoe UI"
+      font-size="34"
+      font-weight="700">
+
+      ENGINEERING JOURNEY
+
+  </text>
+
+  <!-- Subtitle -->
+
+  <text
+      x="700"
+      y="105"
+      fill="#94A3B8"
+      text-anchor="middle"
+      font-family="Segoe UI"
+      font-size="16">
+
+      Robotics • Artificial Intelligence • Computer Vision • Cloud
+
+  </text>
+    <!-- ================= TIMELINE ================= -->
+
+  <!-- Main Line -->
+
+  <line
+      x1="180"
+      y1="250"
+      x2="1220"
+      y2="250"
+      stroke="url(#timelineGradient)"
+      stroke-width="6"
+      filter="url(#cyanGlow)"/>
+
+  <!-- Timeline Nodes -->
+
+  <!-- 2024 -->
+
+  <circle
+      cx="180"
+      cy="250"
+      r="18"
+      fill="#22D3EE"
+      filter="url(#cyanGlow)"/>
+
+  <circle
+      cx="180"
+      cy="250"
+      r="8"
+      fill="#FFFFFF"/>
+
+  <!-- 2025 -->
+
+  <circle
+      cx="520"
+      cy="250"
+      r="18"
+      fill="#7C3AED"
+      filter="url(#purpleGlow)"/>
+
+  <circle
+      cx="520"
+      cy="250"
+      r="8"
+      fill="#FFFFFF"/>
+
+  <!-- 2026 -->
+
+  <circle
+      cx="860"
+      cy="250"
+      r="18"
+      fill="#22D3EE"
+      filter="url(#cyanGlow)"/>
+
+  <circle
+      cx="860"
+      cy="250"
+      r="8"
+      fill="#FFFFFF"/>
+
+  <!-- NEXT -->
+
+  <circle
+      cx="1220"
+      cy="250"
+      r="18"
+      fill="#7C3AED"
+      filter="url(#purpleGlow)"/>
+
+  <circle
+      cx="1220"
+      cy="250"
+      r="8"
+      fill="#FFFFFF"/>
+
+  <!-- Year Labels -->
+
+  <text
+      x="180"
+      y="215"
+      text-anchor="middle"
+      fill="#FFFFFF"
+      font-family="Segoe UI"
+      font-size="20"
+      font-weight="700">
+
+      2024
+
+  </text>
+
+  <text
+      x="520"
+      y="215"
+      text-anchor="middle"
+      fill="#FFFFFF"
+      font-family="Segoe UI"
+      font-size="20"
+      font-weight="700">
+
+      2025
+
+  </text>
+
+  <text
+      x="860"
+      y="215"
+      text-anchor="middle"
+      fill="#FFFFFF"
+      font-family="Segoe UI"
+      font-size="20"
+      font-weight="700">
+
+      2026
+
+  </text>
+
+  <text
+      x="1220"
+      y="215"
+      text-anchor="middle"
+      fill="#FFFFFF"
+      font-family="Segoe UI"
+      font-size="20"
+      font-weight="700">
+
+      NEXT
+
+  </text>
+</svg>
