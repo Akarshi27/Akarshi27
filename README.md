@@ -401,7 +401,7 @@ Cloud Foundations
 
 ### AWS Academy
 
-Machine Learning
+Machine Learning Associate
 
 <img src="https://img.shields.io/badge/Completed-00E5FF?style=flat-square"/>
 
