@@ -390,48 +390,6 @@ Deployment                ███████████████
 ---
 
 
-# 📈 ENGINEERING ROADMAP
-
-<div align="center">
-
-```text
-🌱 2024
-│
-├── Started B.Tech (AI & ML)
-└── ♿ Smart Braille System
-
-══════════════════════════════════════════════════════════════▶
-
-🤖 2025
-│
-├── Quadruped Robodog
-├── Disaster Management Drone
-├── Line Follower Robot
-└── 🏆 Multiple Robotics Championships
-
-══════════════════════════════════════════════════════════════▶
-
-♻ 2026
-│
-├── Smart Waste Segregation
-├── 🧠 Deep Learning
-├── ☁ AWS Cloud
-└── Intelligent Autonomous Systems
-
-══════════════════════════════════════════════════════════════▶
-
-🚀 NEXT
-│
-├── ROS2
-├── Edge AI
-├── Computer Vision Research
-└── Research & Innovation
-```
-
-</div>
-
----
-
 # 📜 CERTIFICATION VAULT
 
 <div align="center">
