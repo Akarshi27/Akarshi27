@@ -8,11 +8,7 @@
 
 <br><br>
 
-<div align="center">
-
 <img src="./assets/cyberpunk-banner.png" width="100%" alt="Akarshi AI Banner"/>
-
-</div>
 
 <br><br>
 
@@ -26,156 +22,66 @@
 
 ---
 
-# <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="34"/> INITIALIZING AI OPERATING SYSTEM
+# <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="35"/> ABOUT ME
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║                     AKARSHI AI OPERATING SYSTEM v3.0                      ║
-║                                                                          ║
-╠══════════════════════════════════════════════════════════════════════════════╣
+<div align="center">
 
-Loading Neural Engine............... ██████████████████ 100%
+## 👋 Hi, I'm **Akarshi Srivastava**
 
-Loading Computer Vision............. ██████████████████ 100%
+### AI & Robotics Engineer • Computer Vision Developer • ML Enthusiast
 
-Loading Robotics Module............. ██████████████████ 100%
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Machines.;Turning+Ideas+into+Autonomous+Systems.;AI+%7C+Computer+Vision+%7C+Robotics.;Always+Learning.+Always+Building."/>
 
-Loading Drone Navigation............ ██████████████████ 100%
+</div>
 
-Loading Machine Learning............ ██████████████████ 100%
+<br>
 
-Loading Embedded Systems............ ██████████████████ 100%
+<table>
 
-Loading Cloud Infrastructure........ ██████████████████ 100%
+<tr>
 
-──────────────────────────────────────────────────────────────────────────────
+<td width="50%" valign="top">
 
-STATUS          ONLINE
+## 🚀 What I Do
 
-LOCATION        India
+- 🤖 Develop AI-powered Robotics
+- 👁️ Build Computer Vision Systems
+- 🧠 Train Deep Learning Models
+- 💻 Create Full Stack Applications
+- ☁️ Explore Cloud & Edge AI
+- ⚡ Solve Real-World Engineering Problems
 
-ROLE            AI & Robotics Engineer
+</td>
 
-MISSION         Build intelligent machines capable of seeing,
-                learning and acting autonomously.
+<td width="50%" valign="top">
 
-VERSION         3.0 Stable
+## ⚡ At A Glance
 
-═══════════════════════════════════════════════════════════════════════════════
+🎓 **B.Tech CSE (AI & ML)**
 
-```
+🤖 **AI & Robotics Developer**
 
----
+🏆 **Multiple National Robotics Winner**
 
-# 🤖 WHO AM I?
+🚁 **AIR 4 – NIDAR Drone Competition**
 
-```python
+💡 **Passionate about Intelligent Automation**
 
-class Akarshi:
+🌱 **Currently learning AWS & Advanced AI**
 
-    def __init__(self):
+</td>
 
-        self.name = "Akarshi Srivastava"
+</tr>
 
-        self.education = "B.Tech CSE (AI & ML)"
-
-        self.year = "3rd Year"
-
-        self.interests = [
-
-            "Artificial Intelligence",
-
-            "Machine Learning",
-
-            "Computer Vision",
-
-            "Robotics",
-
-            "Autonomous Drones",
-
-            "Embedded Systems"
-
-        ]
-
-        self.languages = [
-
-            "Python",
-
-            "C",
-
-            "C++",
-
-            "Java",
-
-            "SQL"
-
-        ]
-
-        self.current_goal = "Building intelligent autonomous systems"
-
-        self.status = "Always Learning"
-
-me = Akarshi()
-
-print(me.status)
-
-```
-
-Output
-
-```text
-
-Always Learning
-
-```
-
----
-
-# ⚡ LIVE SYSTEM STATUS
-
-| Module | Status |
-|---------|--------|
-| 🤖 Artificial Intelligence | 🟢 ACTIVE |
-| 👁 Computer Vision | 🟢 ACTIVE |
-| 🚁 Drone Systems | 🟢 ACTIVE |
-| ⚙ Robotics | 🟢 ACTIVE |
-| ☁ AWS Cloud | 🟢 ACTIVE |
-| 💻 MERN Stack | 🟢 ACTIVE |
-| 📊 Data Analytics | 🟢 ACTIVE |
-
----
-
-# 🛰 MISSION OBJECTIVE
-
-> **"Building machines that don't just execute instructions—but perceive, reason, and act in the real world."**
-
-My work focuses on combining **Artificial Intelligence**, **Computer Vision**, **Robotics**, **Embedded Systems**, and **Cloud Technologies** to build autonomous systems capable of solving real-world engineering problems.
-
-Current research areas include:
-
-- 🤖 Robotics
-- 👁 Computer Vision
-- 🚁 Autonomous Drones
-- 📦 Edge AI
-- 🧠 Deep Learning
-- 📡 IoT
-- ☁ AWS Cloud
-- 📊 Data Engineering
+</table>
 
 ---
 
 <div align="center">
 
-## SYSTEM HEALTH
+## 🛠️ CURRENT TECH STACK
 
-| AI Engine | ████████████████████ 100% |
-|------------|--------------------------|
-| Machine Learning | ███████████████████░ 96% |
-| Computer Vision | ██████████████████░░ 92% |
-| Robotics | █████████████████░░░ 88% |
-| Embedded Systems | ████████████████░░░░ 84% |
-| Cloud Computing | ██████████████░░░░░ 78% |
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,opencv,react,nodejs,express,mongodb,aws,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -183,185 +89,54 @@ Current research areas include:
 
 <div align="center">
 
-### NEXT DESTINATION
+## 💭 Engineering Philosophy
 
+> **"I enjoy building intelligent systems where Artificial Intelligence, Computer Vision, Robotics and Software Engineering come together to solve real-world challenges."**
+
+</div>
+
+---
+
+<div align="center">
+
+| 🎯 Focus | 🚀 Goal |
+|:---------|:-------|
+| Artificial Intelligence | Build practical AI solutions |
+| Computer Vision | Enable machines to understand images |
+| Robotics | Create autonomous systems |
+| Full Stack Development | Build complete AI-powered products |
+| Cloud Computing | Deploy scalable intelligent applications |
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:6A00FF"/>
+
+```text
+>>> Always Learning 🚀
 ```
 
-SEE
+<div align="center">
 
-↓
-
-UNDERSTAND
-
-↓
-
-DECIDE
-
-↓
-
-MOVE
-
-↓
-
-AUTONOMOUS INTELLIGENCE
-
-```
+> ### 💡 *"Building intelligent systems where Artificial Intelligence, Computer Vision and Robotics work together to solve real-world problems."*
 
 </div>
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:00E5FF&height=2"/>
-
-
-
-# <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="34"/> AI TERMINAL
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                  AKARSHI AI TERMINAL v3.0                  ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-
-User@GitHub:~$
-
-```
-
-</div>
-
-<details open>
-<summary><b>> help</b></summary>
-
-```text
-Available Commands
-
-about               View System Information
-
-skills              Load Technical Modules
-
-projects            Open Mission Database
-
-achievements        Competition Records
-
-github              GitHub Analytics
-
-certifications      Verified Credentials
-
-contact             Establish Connection
-
-roadmap             Future Objectives
-
-exit                (Not Allowed 😄)
-```
-
-</details>
-
-<details>
-<summary><b>> whoami</b></summary>
-
-```text
-Name        : Akarshi Srivastava
-
-Role        : AI & Robotics Engineer
-
-Education   : B.Tech CSE (Artificial Intelligence & Machine Learning)
-
-Location    : India
-
-Current Focus
-
-• Artificial Intelligence
-
-• Computer Vision
-
-• Autonomous Robotics
-
-• Deep Learning
-
-• Drone Navigation
-
-• Embedded Systems
-
-Mission
-
-Build intelligent machines capable of
-seeing,
-learning,
-thinking,
-and acting autonomously.
-```
-
-</details>
-
-<details>
-<summary><b>> ls projects/</b></summary>
-
-```text
-📂 Smart Waste Segregation
-
-📂 Robodog
-
-📂 Disaster Management Drone
-
-📂 Smart Braille System
-
-📂 Line Follower Robot
-
-📂 MERN Stock Trading Platform
-```
-
-</details>
-
----
-
-# 👨‍💻 ABOUT ME
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| 🎓 **Education** | B.Tech CSE (AI & ML) |
-| 🏫 **Institute** | KIET Group of Institutions |
-| 🤖 **Specialization** | Artificial Intelligence & Machine Learning |
-| 🚀 **Passion** | Robotics, Computer Vision & AI |
-| 💡 **Interests** | Autonomous Systems & Embedded AI |
-| ☁ **Cloud** | AWS |
-| 💻 **Backend** | MERN Stack |
-| 📊 **Data** | Machine Learning & Analytics |
-
-</div>
-
----
-
-# 🧠 CORE SPECIALIZATIONS
-
-<div align="center">
-
-| AI | Robotics | Software |
-|:--:|:---------:|:---------:|
-| 🧠 Machine Learning | 🤖 Embedded Systems | 💻 MERN |
-| 👁 Computer Vision | 🚁 Drone Systems | ☁ AWS |
-| 🎯 Deep Learning | ⚙ Arduino | 🗄 SQL |
-| 📊 Data Analytics | 📡 IoT | 🌐 APIs |
-
-</div>
-
----
-
 # ⚙ TECHNOLOGY MATRIX
 
 <div align="center">
 
-## Programming Languages
+### 👨‍💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,bash&theme=dark"/>
 
 <br><br>
 
-## AI & Machine Learning
+### 🧠 Artificial Intelligence & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
 
@@ -374,7 +149,7 @@ and acting autonomously.
 
 <br><br>
 
-## Robotics & Embedded
+### 🤖 Robotics & Embedded Systems
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark"/>
 
@@ -387,15 +162,9 @@ and acting autonomously.
 
 <br><br>
 
-## Web Development
+### 🌐 Web Development & Cloud
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github&theme=dark"/>
-
-<br><br>
-
-## Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,vscode,postman,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,aws,docker,vscode&theme=dark"/>
 
 </div>
 
@@ -405,77 +174,195 @@ and acting autonomously.
 
 ```text
 Artificial Intelligence        ████████████████████ 100%
-
 Machine Learning               ███████████████████░ 96%
-
-Deep Learning                  ██████████████████░░ 92%
-
-Computer Vision                ██████████████████░░ 91%
-
-Data Engineering               ████████████████░░░░ 84%
-
+Computer Vision                ██████████████████░░ 92%
 Robotics                       █████████████████░░░ 88%
-
-Embedded Systems               ████████████████░░░░ 82%
-
-Drone Navigation               ███████████████░░░░░ 76%
-
+Embedded Systems               ████████████████░░░░ 84%
 Backend Development            ████████████████░░░░ 83%
-
 AWS Cloud                      ███████████████░░░░░ 78%
 ```
 
 ---
 
-# 🚀 CURRENTLY EXPLORING
+# 🚀 MISSION DATABASE
 
 <div align="center">
 
-| 🌟 Learning | 📌 Building |
-|-------------|-------------|
-| Reinforcement Learning | Intelligent Robotics |
-| ROS 2 | AI Powered Systems |
-| Edge AI | Computer Vision Applications |
-| NVIDIA Jetson | Embedded AI Projects |
-| MLOps | Real-time AI Solutions |
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ♻️ Smart Waste Segregation
+
+🟢 **Completed**
+
+🏆 HackHeist • 3rd Position
+
+🥈 Orbix • Runner-up
+
+<br>
+
+🧠 CNN Image Classification
+
+📷 ESP32-CAM
+
+⚙ Servo Automation
+
+☁ MERN Dashboard
+
+<br>
+
+`TensorFlow` `OpenCV` `ESP32` `React`
+
+<br><br>
+
+<a href="https://github.com/Akarshi27/Smart-Bin">
+
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Quadruped Robodog
+
+🟢 **Completed**
+
+🏆 INNOTECH Winner
+
+<br>
+
+⚙ Servo Coordination
+
+🚶 Stable Walking
+
+🔋 Embedded Control
+
+🦾 Mechanical Design
+
+<br>
+
+`Arduino` `Servo Motors` `Embedded C`
+
+<br><br>
+
+<a href="https://github.com/Akarshi27/Robodog">
+
+<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚁 Disaster Management Drone
+
+🟢 **Completed**
+
+🎯 AIR 4 — NIDAR
+
+<br>
+
+🎯 Object Detection
+
+🛰 Navigation
+
+🤖 Autonomous Flight
+
+📡 Embedded Sensors
+
+<br>
+
+`Computer Vision` `AI` `Drone`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏁 Line Follower Robot
+
+🟢 **Completed**
+
+🥇 IIT Delhi Winner
+
+<br>
+
+⚡ PID Control
+
+📡 IR Sensor Array
+
+🚗 High-Speed Navigation
+
+<br>
+
+`ESP32` `PID` `TB6612`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+## 📈 Stock Trading Platform
+
+🚧 **Currently Building**
+
+Modern MERN-based stock trading platform with authentication, portfolio management and real-time market dashboard.
+
+<br><br>
+
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 📡 ENGINEERING PHILOSOPHY
+# 📊 PROJECT ANALYTICS
+
+<div align="center">
+
+| Metric | Value |
+|:-------|:----:|
+| 🤖 Robotics Projects | **5+** |
+| 🧠 AI / ML Models | **10+** |
+| ☁ Cloud Integrated Projects | **4+** |
+| 💻 Full Stack Applications | **5+** |
+| 🏆 Competition Projects | **7+** |
+
+</div>
+
+<br>
 
 ```text
-Artificial Intelligence
-
-        +
-
-Computer Vision
-
-        +
-
-Embedded Systems
-
-        +
-
-Cloud Computing
-
-        +
-
-Robotics
-
-        =
-
-Autonomous Intelligent Systems
+AI Integration            ████████████████████
+Hardware                  ██████████████████
+Computer Vision           █████████████████
+Cloud                     ████████████
+Deployment                ███████████████
 ```
 
 ---
 
 <div align="center">
 
-## "Code is only the beginning.
-
-The real goal is to build machines that can understand and interact with the world."
+> ### 🚀 *Every project is built around solving a real engineering problem using AI, Robotics and Intelligent Automation.*
 
 </div>
 
@@ -483,300 +370,7 @@ The real goal is to build machines that can understand and interact with the wor
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:6A00FF"/>
 
-# <img src="https://img.icons8.com/fluency/48/rocket.png" width="34"/> MISSION DATABASE
-
-<div align="center">
-
-> **Every project is a mission focused on solving a real-world engineering problem through Artificial Intelligence, Robotics, and Embedded Systems.**
-
-</div>
-
----
-
-## 🚀 MISSION 001 — Smart Waste Segregation System
-
-<img align="right" width="120" src="https://img.icons8.com/fluency/240/recycle.png"/>
-
-### STATUS
-
-🟢 **MISSION COMPLETED**
-
-### DESCRIPTION
-
-An intelligent waste segregation system that classifies waste using Deep Learning and automatically sorts it using embedded hardware.
-
-### MODULES
-
-- 🧠 CNN Image Classification
-- 📷 ESP32-CAM
-- ⚙ Servo Automation
-- ☁ MERN Dashboard
-- 📊 Real-Time Monitoring
-
-### TECH STACK
-
-`Python` `TensorFlow` `OpenCV` `ESP32` `Arduino` `MongoDB` `Express` `React` `Node.js`
-
-### ACHIEVEMENTS
-
-🏆 HackHeist – 3rd Position
-
-🥈 Orbix – 1st Runner-up
-
-### Repository
-
-🔗 https://github.com/Akarshi27/Smart-Bin
-
----
-
-## 🤖 MISSION 002 — Robodog
-
-<img align="right" width="120" src="https://img.icons8.com/fluency/240/robot-2.png"/>
-
-### STATUS
-
-🟢 **MISSION COMPLETED**
-
-### DESCRIPTION
-
-Designed and built a quadruped robot capable of coordinated walking using servo synchronization and embedded control systems.
-
-### FEATURES
-
-- Four Leg Motion
-- Servo Coordination
-- Stable Walking Algorithm
-- Hardware Integration
-- Mechanical Design
-
-### TECH
-
-`Arduino`
-
-`Servo Motors`
-
-`Embedded C`
-
-`Power Electronics`
-
-### ACHIEVEMENT
-
-🏆 Department Winner — INNOTECH
-
-### Repository
-
-🔗 https://github.com/Akarshi27/Robodog
-
----
-
-## 🚁 MISSION 003 — Disaster Management Drone
-
-<img align="right" width="120" src="https://img.icons8.com/fluency/240/drone.png"/>
-
-### STATUS
-
-🟢 Mission Accomplished
-
-### OBJECTIVE
-
-Develop an autonomous drone capable of assisting disaster-response operations using Computer Vision.
-
-### MODULES
-
-- Object Detection
-
-- Navigation
-
-- Autonomous Flight
-
-- AI Decision Making
-
-- Embedded Sensors
-
-### RESULT
-
-🎯 AIR 4 — NIDAR National Competition
-
----
-
-## 🏁 MISSION 004 — Line Follower Robot
-
-<img align="right" width="120" src="https://img.icons8.com/fluency/240/racing-flag.png"/>
-
-### STATUS
-
-🟢 Completed
-
-### FEATURES
-
-- PID Control
-
-- IR Sensor Array
-
-- High Speed Navigation
-
-- Autonomous Path Tracking
-
-### HARDWARE
-
-ESP32
-
-TB6612 Driver
-
-SmartElex Sensors
-
-### RESULT
-
-🥇 IIT Delhi Competition Winner
-
-Repository
-
-🔗 https://github.com/Akarshi27/Maze_Runner
-
----
-
-## ♿ MISSION 005 — Smart Braille System
-
-<img align="right" width="120" src="https://img.icons8.com/fluency/240/braille.png"/>
-
-### STATUS
-
-🟢 Completed
-
-### PURPOSE
-
-Assist visually impaired users by translating Braille input into readable text through integrated hardware and software.
-
-### MODULES
-
-- Embedded Electronics
-
-- Translation Logic
-
-- Accessibility Design
-
-- Human Computer Interaction
-
----
-
-## 📈 PROJECT ANALYTICS
-
-| Project | AI | Hardware | Cloud | Difficulty |
-|---------|:--:|:--------:|:-----:|:----------:|
-| Smart Waste Segregation | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Disaster Drone | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Robodog | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐ |
-| Line Follower | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ | ⭐⭐⭐ |
-| Smart Braille | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ | ⭐⭐⭐ |
-
----
-
-# ⚡ FEATURED PROJECTS
-
-<div align="center">
-
-| 🚀 | 🤖 | 🚁 |
-|:--:|:--:|:--:|
-| Smart Waste Segregation | Robodog | Disaster Drone |
-| CNN + ESP32 + MERN | Embedded Robotics | AI Navigation |
-
-</div>
-
----
-
-# 🛰 PROJECT PIPELINE
-
-```text
-IDEA
-
- │
-
- ▼
-
-Research
-
- │
-
- ▼
-
-Design
-
- │
-
- ▼
-
-Hardware Integration
-
- │
-
- ▼
-
-AI Model Training
-
- │
-
- ▼
-
-Testing
-
- │
-
- ▼
-
-Deployment
-
- │
-
- ▼
-
-Competition / Production
-```
-
----
-
-# 📂 REPOSITORY HIGHLIGHTS
-
-```text
-📦 Smart-Bin
- ├── CNN Training
- ├── ESP32 Firmware
- ├── MERN Dashboard
- └── Deployment
-
-📦 Robodog
- ├── Servo Control
- ├── Motion Logic
- ├── CAD Design
- └── Embedded Code
-
-📦 Disaster Drone
- ├── Detection Module
- ├── Navigation
- ├── Flight Logic
- └── Autonomous System
-
-📦 Maze Runner
- ├── PID
- ├── Sensors
- ├── Motor Driver
- └── ESP32
-```
-
----
-
-<div align="center">
-
-## 🚀 CURRENT MISSION
-
-> **Designing intelligent systems that combine Artificial Intelligence, Robotics, Computer Vision, and Embedded Electronics to solve real-world engineering challenges.**
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6A00FF,100:00E5FF"/>
-
-# <img src="https://img.icons8.com/fluency/48/prize.png" width="34"/> HALL OF ACHIEVEMENTS
+# 🏆 HALL OF ACHIEVEMENTS
 
 <div align="center">
 
@@ -784,90 +378,142 @@ Competition / Production
 
 </div>
 
----
-
-## 🏆 COMPETITION RECORD
+<br>
 
 <div align="center">
 
-| Competition | Achievement | Status |
-|-------------|-------------|:------:|
-| 🚁 Technoxian Robotics Championship | 🥇 1st Position | ✅ |
-| 🚁 Saturnalia – Thapar University | 🥇 1st Position | ✅ |
-| 🚁 NIDAR National Drone Competition | 🎯 AIR 4 | ✅ |
-| 🤖 INNOTECH | 🏆 Department Winner | ✅ |
-| 🏁 IIT Delhi Robotics Competition | 🥇 Winner | ✅ |
-| ♻️ Orbix – IIIT Delhi | 🥈 Runner-up | ✅ |
-| ♻️ HackHeist – GDG MIET | 🥉 3rd Position | ✅ |
-| 💳 RBI × IIT Delhi Challenge | 📜 Phase 2 Qualifier | ✅ |
-| 🌍 KIET Model United Nations | 🇩🇪 Germany Delegate | ✅ |
+| 🏅 Competition | 🏆 Achievement |
+|:---------------|:--------------|
+| 🚁 Technoxian Robotics Championship | 🥇 1st Position |
+| 🚁 Saturnalia • Thapar University | 🥇 1st Position |
+| 🚁 NIDAR National Drone Competition | 🎯 AIR 4 |
+| 🤖 INNOTECH | 🏆 Department Winner |
+| 🏁 IIT Delhi Robotics Competition | 🥇 Winner |
+| ♻️ Orbix • IIIT Delhi | 🥈 Runner-up |
+| ♻️ HackHeist • GDG MIET | 🥉 3rd Position |
+| 💳 RBI × IIT Delhi Challenge | 📜 Phase 2 Qualifier |
+| 🌍 KIET Model United Nations | 🇩🇪 Germany Delegate |
 
 </div>
 
 ---
 
-# 🗓 ENGINEERING TIMELINE
+# 📈 ENGINEERING TIMELINE
+
+<div align="center">
 
 ```text
-2024
-│
-├── Smart Braille System
-│
-└── AI & Embedded Systems
+                 🚀 ENGINEERING EVOLUTION
 
-────────────────────────────────────
+2024
+●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●
+
+🌱 Started B.Tech AI & ML
+
+♿ Smart Braille System
+
+
+                         ▼
+
 
 2025
-│
-├── Robodog
-├── Disaster Management Drone
-├── Drone Competitions
-└── Robotics Championships
+●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●
 
-────────────────────────────────────
+🤖 Quadruped Robodog
+
+🚁 Disaster Management Drone
+
+🏁 Line Follower Robot
+
+🏆 Robotics Championships
+
+🎯 AIR 4 - NIDAR
+
+
+                         ▼
+
 
 2026
-│
-├── Smart Waste Segregation
-├── MERN Development
-├── Machine Learning
-├── AWS
-└── AI Projects
+●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●
 
-────────────────────────────────────
+♻ Smart Waste Segregation
+
+📈 Stock Trading Platform
+
+🧠 Deep Learning
+
+☁ AWS Cloud
+
+🚀 Intelligent Autonomous Systems
+
+
+                         ▼
+
 
 NEXT
 
-Autonomous Robotics
-
-↓
-
 ROS2
 
-↓
+SLAM
 
 Edge AI
 
-↓
-
 Computer Vision
-
-↓
 
 Research & Innovation
 ```
 
+</div>
+
 ---
 
-# 📜 CERTIFICATIONS
+# 📜 CERTIFICATION VAULT
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS%20Academy-Machine%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<table>
 
-<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws"/>
+<tr>
 
-<img src="https://img.shields.io/badge/Infosys%20Springboard-Java-007396?style=for-the-badge&logo=java"/>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/color/96/amazon-web-services.png" width="55"/>
+
+### AWS Academy
+
+Cloud Foundations
+
+<img src="https://img.shields.io/badge/Verified-success?style=flat-square"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55"/>
+
+### AWS Academy
+
+Machine Learning
+
+<img src="https://img.shields.io/badge/Completed-00E5FF?style=flat-square"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="55"/>
+
+### Infosys Springboard
+
+Java Programming
+
+<img src="https://img.shields.io/badge/Certified-8B5CF6?style=flat-square"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -907,86 +553,6 @@ Research & Innovation
 
 </div>
 
-> **⚠️ Requires a GitHub Action to generate automatically.**
-
----
-
-# 🎯 CURRENT ROADMAP
-
-```text
-✔ Python
-
-✔ Machine Learning
-
-✔ Computer Vision
-
-✔ CNN
-
-✔ MERN Stack
-
-✔ Embedded Systems
-
-━━━━━━━━━━━━━━━━━━━━━━━
-
-◉ Deep Learning
-
-◉ AWS
-
-◉ Edge AI
-
-◉ Robotics
-
-━━━━━━━━━━━━━━━━━━━━━━━
-
-○ ROS2
-
-○ SLAM
-
-○ Reinforcement Learning
-
-○ NVIDIA Jetson
-
-○ MLOps
-
-○ LLM Applications
-```
-
----
-
-# 🌌 ENGINEERING PHILOSOPHY
-
-<div align="center">
-
-```
-Observe
-
-↓
-
-Learn
-
-↓
-
-Predict
-
-↓
-
-Decide
-
-↓
-
-Act
-
-↓
-
-Improve
-
-↓
-
-Repeat
-```
-
-</div>
-
 ---
 
 # 🌐 CONNECT
@@ -1011,37 +577,7 @@ Repeat
 
 <div align="center">
 
-# ⚡ SYSTEM STATUS
-
-```text
-Artificial Intelligence Engine
-
-STATUS : ONLINE
-
-Computer Vision Module
-
-STATUS : ONLINE
-
-Robotics Core
-
-STATUS : ONLINE
-
-Cloud Infrastructure
-
-STATUS : ONLINE
-
-Mission
-
-BUILDING INTELLIGENT AUTONOMOUS SYSTEMS
-
-Version
-
-AkarshiOS v3.0
-```
-
----
-
-### *"Building intelligent machines that can see, think, and act."*
+## ⚡ BUILDING INTELLIGENT MACHINES THAT CAN SEE • THINK • ACT
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:050816,50:6A00FF,100:00E5FF"/>
 
