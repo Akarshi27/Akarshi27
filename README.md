@@ -26,11 +26,19 @@
 
 <div align="center">
 
+<div align="center">
+
+<div align="left" style="width:fit-content; margin:auto;">
+
 ## 👋 Hi, I'm **Akarshi Srivastava**
 
 ### AI & Robotics Engineer • Computer Vision Developer • ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Machines.;Turning+Ideas+into+Autonomous+Systems.;AI+%7C+Computer+Vision+%7C+Robotics.;Always+Learning.+Always+Building."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00E5FF&center=false&vCenter=true&width=650&lines=Building+Intelligent+Machines."/>
+
+</div>
+
+</div>
 
 </div>
 
@@ -310,23 +318,6 @@ AWS Cloud                      ███████████████░�
 
 </tr>
 
-<tr>
-
-<td colspan="2" align="center">
-
-## 📈 Stock Trading Platform
-
-🚧 **Currently Building**
-
-Modern MERN-based stock trading platform with authentication, portfolio management and real-time market dashboard.
-
-<br><br>
-
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-
-</tr>
 
 </table>
 
@@ -398,69 +389,43 @@ Deployment                ███████████████
 
 ---
 
-# 📈 ENGINEERING TIMELINE
+
+# 📈 ENGINEERING ROADMAP
 
 <div align="center">
 
 ```text
-                 🚀 ENGINEERING EVOLUTION
+🌱 2024
+│
+├── Started B.Tech (AI & ML)
+└── ♿ Smart Braille System
 
-2024
-●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●
+══════════════════════════════════════════════════════════════▶
 
-🌱 Started B.Tech AI & ML
+🤖 2025
+│
+├── Quadruped Robodog
+├── Disaster Management Drone
+├── Line Follower Robot
+└── 🏆 Multiple Robotics Championships
 
-♿ Smart Braille System
+══════════════════════════════════════════════════════════════▶
 
+♻ 2026
+│
+├── Smart Waste Segregation
+├── 🧠 Deep Learning
+├── ☁ AWS Cloud
+└── Intelligent Autonomous Systems
 
-                         ▼
+══════════════════════════════════════════════════════════════▶
 
-
-2025
-●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●
-
-🤖 Quadruped Robodog
-
-🚁 Disaster Management Drone
-
-🏁 Line Follower Robot
-
-🏆 Robotics Championships
-
-🎯 AIR 4 - NIDAR
-
-
-                         ▼
-
-
-2026
-●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●
-
-♻ Smart Waste Segregation
-
-📈 Stock Trading Platform
-
-🧠 Deep Learning
-
-☁ AWS Cloud
-
-🚀 Intelligent Autonomous Systems
-
-
-                         ▼
-
-
-NEXT
-
-ROS2
-
-SLAM
-
-Edge AI
-
-Computer Vision
-
-Research & Innovation
+🚀 NEXT
+│
+├── ROS2
+├── Edge AI
+├── Computer Vision Research
+└── Research & Innovation
 ```
 
 </div>
