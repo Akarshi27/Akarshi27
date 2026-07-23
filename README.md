@@ -4,11 +4,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=950&lines=Booting+AkarshiOS+v3.0...;Loading+Artificial+Intelligence+Core...;Loading+Computer+Vision+Engine...;Loading+Autonomous+Navigation...;Loading+Robotics+Firmware...;Connecting+to+GitHub+Network...;System+Status+%3A+ONLINE"/>
 
 <br><br>
 
 <img src="./assets/cyberpunk-banner.png" width="100%" alt="Akarshi AI Banner"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=950&lines=Booting+AkarshiOS+v3.0...;Loading+Artificial+Intelligence+Core...;Loading+Computer+Vision+Engine...;Loading+Autonomous+Navigation...;Loading+Robotics+Firmware...;Connecting+to+GitHub+Network...;System+Status+%3A+ONLINE"/>
 
 <br><br>
 
@@ -23,8 +26,6 @@
 ---
 
 # <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="35"/> ABOUT ME
-
-<div align="center">
 
 <div align="center">
 
@@ -114,20 +115,6 @@
 | Robotics | Create autonomous systems |
 | Full Stack Development | Build complete AI-powered products |
 | Cloud Computing | Deploy scalable intelligent applications |
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:6A00FF"/>
-
-```text
->>> Always Learning 🚀
-```
-
-<div align="center">
-
-> ### 💡 *"Building intelligent systems where Artificial Intelligence, Computer Vision and Robotics work together to solve real-world problems."*
 
 </div>
 
@@ -318,7 +305,6 @@ AWS Cloud                      ███████████████░�
 
 </tr>
 
-
 </table>
 
 </div>
@@ -389,7 +375,6 @@ Deployment                ███████████████
 
 ---
 
-
 # 📜 CERTIFICATION VAULT
 
 <div align="center">
@@ -441,30 +426,31 @@ Java Programming
 </div>
 
 ---
+# 👤 PROFILE OVERVIEW
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akarshi27&theme=tokyonight"/>
+
+</div>
+
+<br>
 
 # 📊 GITHUB ANALYTICS
 
-<p align="center">
+<div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akarshi27&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akarshi27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-</p>
+<img width="49%" src="https://streak-stats.demolab.com?user=Akarshi27&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
+<br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akarshi27&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarshi27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akarshi27&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akarshi27&theme=tokyonight&utcOffset=5.5"/>
 
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akarshi27&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akarshi27&theme=github_dark&utcOffset=5.5"/>
-
-</p>
+</div>
 
 ---
 # 📈 CONTRIBUTION GRAPH
