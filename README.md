@@ -444,25 +444,27 @@ Java Programming
 
 # 📊 GITHUB ANALYTICS
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akarshi27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akarshi27&theme=github_dark"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Akarshi27&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br><br>
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarshi27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akarshi27&theme=github_dark"/>
 
-</div>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akarshi27&theme=github_dark"/>
 
-<br>
+</p>
 
-<div align="center">
+<p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akarshi27&theme=tokyo-night&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akarshi27&theme=github_dark"/>
 
-</div>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akarshi27&theme=github_dark&utcOffset=5.5"/>
+
+</p>
 
 ---
 # 📈 CONTRIBUTION GRAPH
