@@ -2,18 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,25:0B1023,50:3B1E70,75:6A00FF,100:00E5FF&text=AKARSHI%20SRIVASTAVA&fontSize=48&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Computer%20Vision%20%7C%20Robotics%20Engineer&descColor=FFFFFF&descAlignY=57"/>
 
-<br>
-
-
-<br><br>
-
 <img src="./assets/cyberpunk-banner.png" width="100%" alt="Akarshi AI Banner"/>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=950&lines=Booting+AkarshiOS+v3.0...;Loading+Artificial+Intelligence+Core...;Loading+Computer+Vision+Engine...;Loading+Autonomous+Navigation...;Loading+Robotics+Firmware...;Connecting+to+GitHub+Network...;System+Status+%3A+ONLINE"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Akarshi27&style=for-the-badge&color=00E5FF"/>
 
