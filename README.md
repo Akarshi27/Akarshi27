@@ -25,8 +25,8 @@
 identity:
   name: "Akarshi Srivastava"
   role: "AIML Engineer // Robotics & Autonomous Systems"
-  status: "B.Tech CSE (AIML), 2nd Year — KIET Group of Institutions"
-  cgpa: 8.22
+  status: "B.Tech CSE (AIML), 3rd Year — KIET Group of Institutions"
+  cgpa: 8.20
 
 core_modules:
   - Machine Learning & Computer Vision
