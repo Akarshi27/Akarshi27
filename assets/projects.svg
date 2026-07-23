@@ -1,104 +1,166 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-<defs>
-<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#050816"/>
-<stop offset="100%" stop-color="#22115a"/>
-</linearGradient>
-<linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#111827"/>
-<stop offset="100%" stop-color="#1e293b"/>
-</linearGradient>
-<filter id="glow">
-<feGaussianBlur stdDeviation="4" result="b"/>
-<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-</filter>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070b1f"/>
+      <stop offset="100%" stop-color="#1d0f4f"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
 
-<rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#bg)"/>
 
-<text x="800" y="90" text-anchor="middle"
-font-size="54" font-family="Arial"
-fill="#4efcff" filter="url(#glow)">
-FEATURED PROJECTS
-</text>
+  <text x="800" y="80"
+        text-anchor="middle"
+        font-size="54"
+        font-family="Verdana"
+        fill="#ffffff">
+    FEATURED PROJECTS
+  </text>
 
-<text x="800" y="130" text-anchor="middle"
-font-size="22" font-family="Arial"
-fill="#c7d2fe">
-AI • Robotics • Computer Vision • Full Stack
-</text>
+  <text x="800" y="120"
+        text-anchor="middle"
+        font-size="22"
+        font-family="Verdana"
+        fill="#b8c5ff">
+    AI • Robotics • Computer Vision • Full Stack
+  </text>
 
-<rect x="120" y="180" width="620" height="160" rx="20"
-fill="url(#card)" stroke="#4efcff" stroke-width="2" filter="url(#glow)"/>
-<text x="150" y="235" font-size="30" font-family="Arial"
-fill="#8b5cf6">Smart Waste Segregation</text>
-<text x="150" y="275" font-size="18" font-family="Arial"
-fill="#dbeafe">TensorFlow • OpenCV • ESP32-CAM • MERN</text>
-<rect x="550" y="290" width="150" height="34" rx="17"
-fill="#8b5cf6"/>
-<text x="625" y="313" text-anchor="middle"
-font-size="16" font-family="Arial" fill="white">View Project</text>
+  <rect x="120" y="170" width="620" height="170" rx="18"
+        fill="#111827"
+        stroke="url(#border)"
+        stroke-width="3"/>
+  <text x="148" y="220"
+        font-size="28"
+        font-family="Verdana"
+        fill="#00e5ff">Smart Waste Segregation</text>
+  <text x="148" y="258"
+        font-size="17"
+        font-family="Verdana"
+        fill="#d6e4ff">TensorFlow • OpenCV • ESP32-CAM • MERN</text>
 
-<rect x="860" y="180" width="620" height="160" rx="20"
-fill="url(#card)" stroke="#4efcff" stroke-width="2" filter="url(#glow)"/>
-<text x="890" y="235" font-size="30" font-family="Arial"
-fill="#8b5cf6">Quadruped Robodog</text>
-<text x="890" y="275" font-size="18" font-family="Arial"
-fill="#dbeafe">Arduino • Embedded C • Servo Control</text>
-<rect x="1290" y="290" width="150" height="34" rx="17"
-fill="#8b5cf6"/>
-<text x="1365" y="313" text-anchor="middle"
-font-size="16" font-family="Arial" fill="white">View Project</text>
+  <rect x="545" y="288" width="160" height="34" rx="17"
+        fill="#8b5cf6"/>
+  <text x="625" y="310"
+        text-anchor="middle"
+        font-size="15"
+        font-family="Verdana"
+        fill="#ffffff">View Repository</text>
 
-<rect x="120" y="430" width="620" height="160" rx="20"
-fill="url(#card)" stroke="#4efcff" stroke-width="2" filter="url(#glow)"/>
-<text x="150" y="485" font-size="30" font-family="Arial"
-fill="#8b5cf6">Disaster Drone</text>
-<text x="150" y="525" font-size="18" font-family="Arial"
-fill="#dbeafe">YOLO • AI Vision • Navigation</text>
-<rect x="550" y="540" width="150" height="34" rx="17"
-fill="#8b5cf6"/>
-<text x="625" y="563" text-anchor="middle"
-font-size="16" font-family="Arial" fill="white">View Project</text>
+  <rect x="860" y="170" width="620" height="170" rx="18"
+        fill="#111827"
+        stroke="url(#border)"
+        stroke-width="3"/>
+  <text x="888" y="220"
+        font-size="28"
+        font-family="Verdana"
+        fill="#00e5ff">Quadruped Robodog</text>
+  <text x="888" y="258"
+        font-size="17"
+        font-family="Verdana"
+        fill="#d6e4ff">Arduino • Embedded C • Servo Control</text>
 
-<rect x="860" y="430" width="620" height="160" rx="20"
-fill="url(#card)" stroke="#4efcff" stroke-width="2" filter="url(#glow)"/>
-<text x="890" y="485" font-size="30" font-family="Arial"
-fill="#8b5cf6">Line Follower</text>
-<text x="890" y="525" font-size="18" font-family="Arial"
-fill="#dbeafe">ESP32 • PID • TB6612</text>
-<rect x="1290" y="540" width="150" height="34" rx="17"
-fill="#8b5cf6"/>
-<text x="1365" y="563" text-anchor="middle"
-font-size="16" font-family="Arial" fill="white">View Project</text>
+  <rect x="1285" y="288" width="160" height="34" rx="17"
+        fill="#8b5cf6"/>
+  <text x="1365" y="310"
+        text-anchor="middle"
+        font-size="15"
+        font-family="Verdana"
+        fill="#ffffff">View Repository</text>
 
-<rect x="120" y="680" width="620" height="160" rx="20"
-fill="url(#card)" stroke="#4efcff" stroke-width="2" filter="url(#glow)"/>
-<text x="150" y="735" font-size="30" font-family="Arial"
-fill="#8b5cf6">SB Stocks</text>
-<text x="150" y="775" font-size="18" font-family="Arial"
-fill="#dbeafe">React • Node • Express • MongoDB</text>
-<rect x="550" y="790" width="150" height="34" rx="17"
-fill="#8b5cf6"/>
-<text x="625" y="813" text-anchor="middle"
-font-size="16" font-family="Arial" fill="white">View Project</text>
+  <rect x="120" y="410" width="620" height="170" rx="18"
+        fill="#111827"
+        stroke="url(#border)"
+        stroke-width="3"/>
+  <text x="148" y="460"
+        font-size="28"
+        font-family="Verdana"
+        fill="#00e5ff">Disaster Drone</text>
+  <text x="148" y="498"
+        font-size="17"
+        font-family="Verdana"
+        fill="#d6e4ff">YOLO • AI Vision • Navigation</text>
 
-<rect x="860" y="680" width="620" height="160" rx="20"
-fill="url(#card)" stroke="#4efcff" stroke-width="2" filter="url(#glow)"/>
-<text x="890" y="735" font-size="30" font-family="Arial"
-fill="#8b5cf6">Candidate AI</text>
-<text x="890" y="775" font-size="18" font-family="Arial"
-fill="#dbeafe">Python • NLP • ML</text>
-<rect x="1290" y="790" width="150" height="34" rx="17"
-fill="#8b5cf6"/>
-<text x="1365" y="813" text-anchor="middle"
-font-size="16" font-family="Arial" fill="white">View Project</text>
+  <rect x="545" y="528" width="160" height="34" rx="17"
+        fill="#8b5cf6"/>
+  <text x="625" y="550"
+        text-anchor="middle"
+        font-size="15"
+        font-family="Verdana"
+        fill="#ffffff">View Repository</text>
 
-<line x1="120" y1="875" x2="1480" y2="875" stroke="#4efcff"/>
-<text x="800" y="860" text-anchor="middle"
-font-size="18" font-family="Arial" fill="#c7d2fe">
-github.com/Akarshi27
-</text>
+  <rect x="860" y="410" width="620" height="170" rx="18"
+        fill="#111827"
+        stroke="url(#border)"
+        stroke-width="3"/>
+  <text x="888" y="460"
+        font-size="28"
+        font-family="Verdana"
+        fill="#00e5ff">Line Follower Robot</text>
+  <text x="888" y="498"
+        font-size="17"
+        font-family="Verdana"
+        fill="#d6e4ff">ESP32 • PID • TB6612</text>
+
+  <rect x="1285" y="528" width="160" height="34" rx="17"
+        fill="#8b5cf6"/>
+  <text x="1365" y="550"
+        text-anchor="middle"
+        font-size="15"
+        font-family="Verdana"
+        fill="#ffffff">View Repository</text>
+
+  <rect x="120" y="650" width="620" height="170" rx="18"
+        fill="#111827"
+        stroke="url(#border)"
+        stroke-width="3"/>
+  <text x="148" y="700"
+        font-size="28"
+        font-family="Verdana"
+        fill="#00e5ff">SB Stocks</text>
+  <text x="148" y="738"
+        font-size="17"
+        font-family="Verdana"
+        fill="#d6e4ff">React • Node • Express • MongoDB</text>
+
+  <rect x="545" y="768" width="160" height="34" rx="17"
+        fill="#8b5cf6"/>
+  <text x="625" y="790"
+        text-anchor="middle"
+        font-size="15"
+        font-family="Verdana"
+        fill="#ffffff">View Repository</text>
+
+  <rect x="860" y="650" width="620" height="170" rx="18"
+        fill="#111827"
+        stroke="url(#border)"
+        stroke-width="3"/>
+  <text x="888" y="700"
+        font-size="28"
+        font-family="Verdana"
+        fill="#00e5ff">Candidate AI</text>
+  <text x="888" y="738"
+        font-size="17"
+        font-family="Verdana"
+        fill="#d6e4ff">Python • NLP • Machine Learning</text>
+
+  <rect x="1285" y="768" width="160" height="34" rx="17"
+        fill="#8b5cf6"/>
+  <text x="1365" y="790"
+        text-anchor="middle"
+        font-size="15"
+        font-family="Verdana"
+        fill="#ffffff">View Repository</text>
+
+  <line x1="120" y1="870" x2="1480" y2="870" stroke="#4efcff"/>
+  <text x="800" y="855"
+        text-anchor="middle"
+        font-size="18"
+        font-family="Verdana"
+        fill="#c7d2fe">
+    github.com/Akarshi27
+  </text>
 </svg>
