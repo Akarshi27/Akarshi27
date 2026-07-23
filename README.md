@@ -8,7 +8,11 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430"/>
+<div align="center">
+
+<img src="./assets/cyberpunk-banner.png" width="100%" alt="Akarshi AI Banner"/>
+
+</div>
 
 <br><br>
 
